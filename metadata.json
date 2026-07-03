@@ -1,0 +1,6 @@
+{
+  "name": "Leitor de Páginas Web",
+  "description": "Leitor em voz alta de páginas de internet indicadas pelo usuário, com busca de frases e controle total de voz.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
